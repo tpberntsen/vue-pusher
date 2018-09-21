@@ -40,7 +40,7 @@ VuePusher.prototype.unsubscribe = function (channel) {
 };
 
 /**
- * Return all the chanels.
+ * Return all the channels.
  *
  * @return {Array}
  */
